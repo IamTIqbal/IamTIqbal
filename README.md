@@ -3,7 +3,7 @@
 **IT Manager | System Analyst | AI Developer**  
 Cloud Infrastructure, Automation, Web Engineering, and Digital Transformation
 
-[Portfolio Website](https://tamimiqbal.com) | [Resume (PDF)](./Tamim_Iqbal_CV.pdf)
+[Portfolio Website](https://tamimiqbal.com) | [Resume](https://tamimiqbal.com/tools/resume-ats)
 
 ## Professional Summary
 
